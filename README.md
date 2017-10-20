@@ -1,5 +1,5 @@
 # AAstretch
-Localization and exploration of impure homopeptidic repeats in genomes
+<b>Localization and exploration of impure homopeptidic repeats in genomes</b>
 
 These scripts have been used in:
 <br>
